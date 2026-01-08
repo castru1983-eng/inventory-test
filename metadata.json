@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Inventory & Part Photo Tracker",
+  "description": "A professional-grade React application for tracking industrial parts with unique cards, photo uploads, and quantity management, featuring Gemini-powered part insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
